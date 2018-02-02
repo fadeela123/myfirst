@@ -1,0 +1,28 @@
+
+body{
+    background-color: grey;
+}
+.style form input{
+    
+    width: 40%;
+    height: 30px;
+    padding: 10px;
+    font-family: arial;
+    background-color: white;
+    border-color: darkgrey;
+    
+    
+}
+
+.style form {
+    float: center;
+}
+
+.style form button{
+     width: 10%;
+    height: 30px;
+    background-color: black;
+    color: white;
+    border: none;
+    
+}
