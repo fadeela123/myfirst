@@ -14,15 +14,31 @@ body{
     
 }
 
+#select{
+    width: 5%;
+    height: 30px;
+    border-color: darkgrey;
+}
+#option{
+        font-family: arial;
+        font-size: large;
+        
+        
+
+}
+
 .style form {
     float: center;
 }
 
 .style form button{
-     width: 10%;
+     width: 6%;
     height: 30px;
     background-color: black;
     color: white;
     border: none;
-    
+    font-family: arial;
+    font-size: large;
+    cursor: pointer;
+
 }
